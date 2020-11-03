@@ -1,1 +1,2 @@
-# c75-pritish
+# searchBar
+Added search bar to the wily App
